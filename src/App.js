@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        Breaking changes!
+        Let's build some apps starting at 12:12!
       </header>
     </div>
   );
